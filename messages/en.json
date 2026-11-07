@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "Alireza Shakeri — Full-Stack Developer",
+    "description": "Alireza Shakeri, Full-Stack Developer. Projects, technology interests, and contact details."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "talk": "Get in touch",
+    "open": "Open navigation",
+    "close": "Close navigation",
+    "label": "Main navigation",
+    "language": "Switch to Persian",
+    "skip": "Skip to content"
+  },
+  "hero": {
+    "eyebrow": "Personal portfolio",
+    "work": "View projects",
+    "contact": "Contact me",
+    "scroll": "Explore the projects",
+    "portrait": "Portrait coming soon",
+    "footnote": "Interfaces, application logic, and the details between."
+  },
+  "about": {
+    "label": "02 / About me",
+    "title": "A developer,",
+    "accent": "with attention to detail.",
+    "photo": "Personal photo coming soon",
+    "focus": "What I care about",
+    "quality": "Code quality",
+    "qualityText": "Clear structure and code that is easy to follow.",
+    "performance": "Performance",
+    "performanceText": "Fast pages, considered assets, and responsive interactions.",
+    "experience": "User experience",
+    "experienceText": "Readable content and a clear path to the next action."
+  },
+  "projects": {
+    "label": "01 / Selected work",
+    "title": "A closer look",
+    "accent": "at the work.",
+    "intro": "Project context, design decisions, and what is planned next.",
+    "featured": "Featured project",
+    "details": "View project details",
+    "back": "All projects",
+    "overview": "Project overview",
+    "role": "My role",
+    "status": "Project status",
+    "stack": "Technology",
+    "planned": "Planned capabilities",
+    "implemented": "Implemented features",
+    "unverified": "No completed features have been verified yet.",
+    "challenge": "Design challenge",
+    "solution": "Proposed approach",
+    "gallery": "Project screenshots",
+    "galleryNote": "The gallery will show real project screenshots when they are available.",
+    "previous": "Previous screenshot",
+    "nextSlide": "Next screenshot",
+    "slide": "Screenshot",
+    "live": "Visit live site",
+    "source": "View source",
+    "noLinks": "A public demo and repository are not available yet.",
+    "noScreenshots": "Project image coming soon",
+    "imagePending": "A real screenshot will be added here.",
+    "fullImage": "Open full image"
+  },
+  "skills": {
+    "label": "03 / Technologies",
+    "title": "From the interface",
+    "accent": "to the data.",
+    "intro": "The technologies I follow across frontend, backend, data, and deployment.",
+    "note": "Areas of interest; this list does not represent proficiency levels.",
+    "filter": "Filter technologies",
+    "all": "All technologies"
+  },
+  "process": {
+    "label": "04 / Approach",
+    "title": "A clear process,",
+    "accent": "step by step.",
+    "intro": "How I approach a web project, from the initial question to the final checks.",
+    "oneTitle": "Understand the problem",
+    "oneText": "Identify who will use it, what they need, and what belongs in the first version.",
+    "twoTitle": "Plan the structure",
+    "twoText": "Define the data, routes, and components before choosing the tools.",
+    "threeTitle": "Build in small steps",
+    "threeText": "Connect the interface and application logic, checking each part as it takes shape.",
+    "fourTitle": "Test and refine",
+    "fourText": "Check real devices, keyboard navigation, and performance. Fix what gets in the way."
+  },
+  "contact": {
+    "label": "05 / Contact",
+    "title": "Have a project",
+    "accent": "in mind?",
+    "intro": "For a project or collaboration, send me a message through one of these channels.",
+    "emptyTitle": "Get in touch",
+    "emptyText": "Contact details will be added here when available.",
+    "explore": "Explore selected work",
+    "reveal": "Reveal phone number",
+    "available": "Find me here"
+  },
+  "footer": {
+    "line": "Full-Stack Developer · Personal portfolio",
+    "top": "Back to top",
+    "copyright": "All rights reserved.",
+    "navigation": "Footer navigation"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "This address is unavailable. You can return to the portfolio.",
+    "home": "Back to the portfolio"
+  }
+}

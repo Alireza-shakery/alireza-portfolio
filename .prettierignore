@@ -1,0 +1,7 @@
+node_modules
+.next
+artifacts
+reference.html
+package-lock.json
+next-env.d.ts
+AGENTS.md
